@@ -15,7 +15,6 @@
 | ctrl - click | 多光标操作 |
 | ctrl - enter | 当前光标下一行新建 |
 | ctrl - left / right | 跳转到当前单词的首部、尾部|
-
 | ctrl - shift -enter |  当前光标上一行新建|
 | ctrl - shift - p  |    控制面板|
 | ctrl - shift - d  |    复制当前行到下一行|
@@ -27,12 +26,9 @@
 |	ctrl - shift - c 	|	复制当前文件路径 |
 |	ctrl - shift - home / end   |	选中到当前文档开头 / 结尾	|
 |	shif - home / end	|	选中到当前行开头 / 结尾	|
-
 | ctrl - alt - o  | 添加文件夹 |
 |	ctrl - alt - r	|	重载 |
-
 | a \ m \ delete  | 增加 \ 修改 \ 删除 文件 |
 | alt - \ | 光标在当前文件和目录树之前切换 |
-
 | platformio-ide-terminal | shell 命令行 （window 调取的是cmd）|
 | atom-beautify | 格式化代码 |
